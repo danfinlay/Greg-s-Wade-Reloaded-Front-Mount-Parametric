@@ -1,0 +1,1 @@
+Currently not quite working, some kind of problem when deriving a difference() from a previous mesh, which I was forced to do here since I had no access to the original SCAD file.
