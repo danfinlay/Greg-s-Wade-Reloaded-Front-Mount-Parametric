@@ -1,6 +1,8 @@
 module prior(){
-import("jonaskuehling-gregs-wade-i3-30.stl");
-holePatches();
+	union(){
+		import("jonaskuehling-gregs-wade-i3-30-2.stl");
+		holePatches();
+	}
 }
 
 module holePatches(){
